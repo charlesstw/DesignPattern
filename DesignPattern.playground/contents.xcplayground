@@ -2,6 +2,10 @@
 <playground version='6.0' target-platform='ios' display-mode='raw'>
     <pages>
         <page name='Simple Factory'/>
+        <page name='Factory'/>
+        <page name='Abstract Factory'/>
+        <page name='Strategy'/>
         <page name='State'/>
+        <page name='Decorator'/>
     </pages>
 </playground>
