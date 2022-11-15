@@ -5,7 +5,7 @@
         <page name='Factory'/>
         <page name='Abstract Factory'/>
         <page name='Strategy'/>
-        <page name='State'/>
         <page name='Decorator'/>
+        <page name='State'/>
     </pages>
 </playground>
